@@ -46,4 +46,3 @@ The model achieved a Root Mean Squared Error of X on the validation set.
 >Visualization:
 Performed visualization and viewed actual vs predicted values in the form of bars
 
->How to use:
